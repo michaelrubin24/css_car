@@ -1,0 +1,108 @@
+
+div.container{
+	margin: 10px auto;
+	background-color: gray;
+}
+
+h1{
+	margin-top:5px;
+	box-sizing: border-box;
+	color: red;
+	border: 4px dotted yellow;
+}
+
+.topOfCar {
+	margin: 0 auto;
+	width: 50px;
+	height: 25px;
+	background-color: red;
+	box-shadow: 0 -5px 40px 14px yellow;
+}
+
+.bigWindow {
+	margin: 0 auto;
+	width: 450px;
+	height: 110px;
+	background-color: blue;
+	border-top-left-radius: 150px;
+	border-top-right-radius: 150px;
+}
+
+.bodyOfCar {
+	margin: 0 auto;
+	width: 650px;
+	height:140px;
+	background-color: green;
+	border-radius: 60px;
+}
+
+.bodyOfCar div {
+	display: inline-block;
+}
+
+.left_light {
+	margin-left: 55px;
+	margin-top: 30px;
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	border-radius: 30px;
+}
+
+.signOfCar {
+	margin-left: 160px;
+	width: 120px;
+	height: 50px;
+	background-color: purple;
+	box-sizing: border-box;
+	text-align: center;
+	margin-top: 10px;
+
+	
+}
+
+.right_light {
+	margin-left: 150px;
+	margin-top: 30px;
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	border-radius: 30px;
+}
+
+.left_light:hover, .right_light:hover {
+	box-shadow: 0px 0px 60px 16px #990000;
+} 
+
+.wheels_centring {
+	width:650px;
+	height: 60px;
+	margin: 0 auto;
+}
+.left_wheel {
+	display: inline-block;
+	margin-left: 100px;
+	margin-top: 0px;
+	width: 50px;
+	height: 60px;
+	background-color: red;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
+
+.right_wheel{
+	display:inline-block;
+	margin-left:340px;
+	margin-top:0px;
+	width: 50px;
+	height:60px;
+	background-color:red;
+	border-bottom-left-radius:40px;
+	border-bottom-right-radius:40px;
+}
+
+
+
+
+
+
