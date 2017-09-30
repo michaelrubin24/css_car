@@ -31,7 +31,7 @@ h1{
 .bodyOfCar {
 	margin: 0 auto;
 	width: 650px;
-	height:140px;
+	height: 140px;
 	background-color: green;
 	border-radius: 60px;
 }
@@ -92,13 +92,13 @@ h1{
 
 .right_wheel{
 	display:inline-block;
-	margin-left:340px;
-	margin-top:0px;
+	margin-left: 340px;
+	margin-top: 0px;
 	width: 50px;
-	height:60px;
+	height: 60px;
 	background-color:red;
-	border-bottom-left-radius:40px;
-	border-bottom-right-radius:40px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
 }
 
 
